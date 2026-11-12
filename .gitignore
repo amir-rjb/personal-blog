@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+instance/
+blog.db
+*.sqlite
+*.sqlite3
+.pytest_cache/
+.idea/
+.vscode/
+uploads/*
+.DS_Store
+Thumbs.db

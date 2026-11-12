@@ -1,0 +1,1 @@
+document.querySelectorAll('form[onsubmit]').forEach(form=>form.addEventListener('submit',event=>{if(!confirm('مطمئنی؟'))event.preventDefault()}));
